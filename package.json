@@ -1,6 +1,6 @@
 {
   "name": "narwhal-cv",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "license": "UNLICENSED",
   "author": {
     "email": "jason@wilsons.io",
@@ -19,6 +19,6 @@
     "whal": "bin/whal"
   },
   "scripts": {
-	  "postversion": "npm publish"
+    "postversion": "npm publish"
   }
 }
