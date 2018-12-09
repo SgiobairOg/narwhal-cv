@@ -17,5 +17,8 @@
   ],
   "bin": {
     "whal": "bin/whal"
+  },
+  "scripts": {
+	  "postversion": "npm publish"
   }
 }
