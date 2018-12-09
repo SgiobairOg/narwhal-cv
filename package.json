@@ -14,5 +14,8 @@
 	  "cli",
 	  "resume",
 	  "nerdy"
-  ]
+  ],
+  "bin": {
+    "whal": "bin/whal"
+  }
 }
