@@ -1,19 +1,19 @@
 {
   "name": "narwhal-cv",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "UNLICENSED",
   "author": {
-	  "email": "jason@wilsons.io",
-	  "name": "Jason Wilson",
-	  "url": "https://github.com/sgiobairog/narwhal-cv.git"
+    "email": "jason@wilsons.io",
+    "name": "Jason Wilson",
+    "url": "https://github.com/sgiobairog/narwhal-cv.git"
   },
   "description": "A Curriculum Vitae packaged as a command line interface.",
   "keywords": [
-	  "curriculum vitae",
-	  "cv",
-	  "cli",
-	  "resume",
-	  "nerdy"
+    "curriculum vitae",
+    "cv",
+    "cli",
+    "resume",
+    "nerdy"
   ],
   "bin": {
     "whal": "bin/whal"
