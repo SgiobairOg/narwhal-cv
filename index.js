@@ -6,4 +6,4 @@ class NarwhalCV {
 
 const whaleSighting = new NarwhalCV();
 
-export default whaleSighting;
+module.exports = whaleSighting;
